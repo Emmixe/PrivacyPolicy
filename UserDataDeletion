@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Suppression des Données Utilisateur</title>
+</head>
+<body>
+    <h1>Suppression des Données Utilisateur</h1>
+    <p>Instructions sur comment les utilisateurs peuvent demander la suppression de leurs données.</p>
+    <p>Contactez-nous à l'adresse suivante : <a href="mailto:contact@votreapp.com">contact@votreapp.com</a></p>
+</body>
+</html>
